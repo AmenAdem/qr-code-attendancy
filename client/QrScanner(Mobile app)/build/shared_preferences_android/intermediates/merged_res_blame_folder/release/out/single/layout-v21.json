@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\flutter\\QrScanner\\build\\shared_preferences_android\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\ademt\\.gradle\\caches\\transforms-3\\ebfec1fd6c1d3146c4318849081699f6\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\flutter\\QrScanner\\build\\shared_preferences_android\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\ademt\\.gradle\\caches\\transforms-3\\ebfec1fd6c1d3146c4318849081699f6\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\flutter\\QrScanner\\build\\shared_preferences_android\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\ademt\\.gradle\\caches\\transforms-3\\ebfec1fd6c1d3146c4318849081699f6\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\flutter\\QrScanner\\build\\shared_preferences_android\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\ademt\\.gradle\\caches\\transforms-3\\ebfec1fd6c1d3146c4318849081699f6\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action.xml"
+    }
+]

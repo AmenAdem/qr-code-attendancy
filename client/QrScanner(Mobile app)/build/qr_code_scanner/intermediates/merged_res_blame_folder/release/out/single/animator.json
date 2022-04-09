@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\flutter\\QrScanner\\build\\qr_code_scanner\\intermediates\\res\\merged\\release\\animator\\fragment_fade_enter.xml",
+        "source": "C:\\Users\\ademt\\.gradle\\caches\\transforms-3\\ec22d9270348ec249bcfcfb98cbc6e6b\\transformed\\fragment-1.3.4\\res\\animator\\fragment_fade_enter.xml"
+    },
+    {
+        "merged": "F:\\flutter\\QrScanner\\build\\qr_code_scanner\\intermediates\\res\\merged\\release\\animator\\fragment_close_exit.xml",
+        "source": "C:\\Users\\ademt\\.gradle\\caches\\transforms-3\\ec22d9270348ec249bcfcfb98cbc6e6b\\transformed\\fragment-1.3.4\\res\\animator\\fragment_close_exit.xml"
+    },
+    {
+        "merged": "F:\\flutter\\QrScanner\\build\\qr_code_scanner\\intermediates\\res\\merged\\release\\animator\\fragment_open_exit.xml",
+        "source": "C:\\Users\\ademt\\.gradle\\caches\\transforms-3\\ec22d9270348ec249bcfcfb98cbc6e6b\\transformed\\fragment-1.3.4\\res\\animator\\fragment_open_exit.xml"
+    },
+    {
+        "merged": "F:\\flutter\\QrScanner\\build\\qr_code_scanner\\intermediates\\res\\merged\\release\\animator\\fragment_fade_exit.xml",
+        "source": "C:\\Users\\ademt\\.gradle\\caches\\transforms-3\\ec22d9270348ec249bcfcfb98cbc6e6b\\transformed\\fragment-1.3.4\\res\\animator\\fragment_fade_exit.xml"
+    },
+    {
+        "merged": "F:\\flutter\\QrScanner\\build\\qr_code_scanner\\intermediates\\res\\merged\\release\\animator\\fragment_open_enter.xml",
+        "source": "C:\\Users\\ademt\\.gradle\\caches\\transforms-3\\ec22d9270348ec249bcfcfb98cbc6e6b\\transformed\\fragment-1.3.4\\res\\animator\\fragment_open_enter.xml"
+    },
+    {
+        "merged": "F:\\flutter\\QrScanner\\build\\qr_code_scanner\\intermediates\\res\\merged\\release\\animator\\fragment_close_enter.xml",
+        "source": "C:\\Users\\ademt\\.gradle\\caches\\transforms-3\\ec22d9270348ec249bcfcfb98cbc6e6b\\transformed\\fragment-1.3.4\\res\\animator\\fragment_close_enter.xml"
+    }
+]
