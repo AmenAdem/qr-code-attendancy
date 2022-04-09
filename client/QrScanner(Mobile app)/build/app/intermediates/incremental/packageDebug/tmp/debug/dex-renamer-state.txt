@@ -1,4 +1,0 @@
-#Tue Mar 22 22:24:47 WAT 2022
-base.0=F\:\\flutter\\QrScanner\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
